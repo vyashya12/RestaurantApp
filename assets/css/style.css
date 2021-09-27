@@ -1,0 +1,28 @@
+.big-font {
+    font-family: 'Karma';
+    font-weight: 700;
+}
+
+.norm {
+    font-family: 'Karma';
+    font-weight: 400;
+}
+
+.page-footer {
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.backgorund {
+    background-image: url('../images/main-bg.jpeg');
+}
+
+.card-image img {
+    width: 400px;
+    height: 300px;
+}
+  
+.black {
+    color: black;
+}
+  
